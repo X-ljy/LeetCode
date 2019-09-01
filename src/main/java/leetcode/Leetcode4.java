@@ -1,6 +1,6 @@
 package leetcode;
 
-public class leetcode4 {
+public class Leetcode4 {
 
 
     static  public double FindMedianSortedArrays(int[] nums1, int[] nums2)
