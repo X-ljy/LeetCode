@@ -43,11 +43,4 @@ public class Leetcode4 {
         }
     }
 
-    public static void main(String[] args){
-
-        int[] a  = {1,3,4};
-        int[] b = {2};
-        System.out.println(FindMedianSortedArrays(a,b));
-
-    }
 }
