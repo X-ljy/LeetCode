@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.common;
 
 public class KMP {
 
